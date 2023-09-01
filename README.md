@@ -8,9 +8,11 @@
 
 - 💬 Ask me about **Tablue,Python,CSS,HTML,React JS, mySQL**
 
+- ⚡ see my project **https://public.tableau.com/app/profile/rizky.gumilang**
+  
 - 📫 How to reach me **rizkyaryendigumilang@gmail.com**
 
-- ⚡ Fun fact **I think i'am Funny**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
