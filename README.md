@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Tablue,Python,CSS,HTML,React JS, mySQL**
 
-- ⚡ see my project **https://public.tableau.com/app/profile/rizky.gumilang**
+- ⚡ See my project **https://public.tableau.com/app/profile/rizky.gumilang**
   
 - 📫 How to reach me **rizkyaryendigumilang@gmail.com**
 
